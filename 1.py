@@ -3,7 +3,7 @@
 class user:
     def __init__(self, name, email):
         self.name = name
-        self.email = email
+       # self.email = email
 
 # Define the UserManagement class
 class UserManagement:
